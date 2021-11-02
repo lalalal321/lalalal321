@@ -1,4 +1,4 @@
-### Hi,Welcome 👋
+### Welcome to my page 👋
 
 - 🔭 I’m currently studying on HUST
 - 🌱 I’m currently learning knowledge graph
